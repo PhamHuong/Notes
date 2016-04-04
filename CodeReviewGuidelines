@@ -1,0 +1,9 @@
+Code Review Guidelines
+============================
+When conducting your code review, ensure you have verified the following areas in addition to logic:
+•	[ ] Logging
+•	[ ] Metrics collections
+•	[ ] Error Handling (Are exceptions caught?)
+•	[ ] Documentation
+•	[ ] Code comments
+•	[ ] Unit Tests
